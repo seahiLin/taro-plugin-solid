@@ -1,6 +1,6 @@
 {
   "name": "taro-plugin-solid",
-  "version": "3.6.0",
+  "version": "3.6.1",
   "description": "React/Preact/Nerv 框架插件",
   "author": "drchan",
   "homepage": "https://github.com/nervjs/taro",
@@ -24,10 +24,10 @@
     "url": "https://github.com/NervJS/taro/issues"
   },
   "dependencies": {
-    "@tarojs/helper": "workspace:*",
-    "@tarojs/runtime": "workspace:*",
-    "@tarojs/service": "workspace:*",
-    "@tarojs/shared": "workspace:*",
+    "@tarojs/helper": "3.6.1",
+    "@tarojs/runtime": "3.6.1",
+    "@tarojs/service": "3.6.1",
+    "@tarojs/shared": "3.6.1",
     "@types/react": "^18.0.27",
     "acorn": "^8.0.4",
     "acorn-walk": "^8.0.0",
